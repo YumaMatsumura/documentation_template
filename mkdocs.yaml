@@ -12,6 +12,7 @@ theme:
     text: Noto Sans JP
     code: Inconsolata
   icon:
+    logo: fontawesome/solid/robot # サイト左上のロゴ
     repo: fontawesome/brands/github # repo_url, repo_nameで設定したアイコン
   palette:
     primary: teal  # テーマカラー
