@@ -18,6 +18,8 @@ theme:
     primary: teal  # テーマカラー
   features:
     - content.code.copy # コードコピーボタンの追加
+    - navigation.tabs # タブの追加
+    - navigation.tabs.sticky # 画面スクロールした場合もタブを有効化
     - navigation.top # ドップに戻るボタンの追加
 plugins:
   search:
