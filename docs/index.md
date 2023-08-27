@@ -136,6 +136,19 @@ void main() {
 [ボタン1](https://github.com/YumaMatsumura){ .md-button }
 [ボタン2](https://github.com/YumaMatsumura){ .md-button .md-button--primary }
 
+## font awesome ロゴ
+
+<i class="fa fa-arrow-circle-right" aria-hidden="true"></i> arrow-circle-right  
+<i class="fa fa-bars" aria-hidden="true"></i> bars  
+<i class="fa fa-file" aria-hidden="true"></i> file  
+<i class="fa fa-folder" aria-hidden="true"></i> folder  
+<i class="fa fa-folder-open" aria-hidden="true"></i> folder-open  
+<i class="fa fa-code" aria-hidden="true"></i> code  
+<i class="fa fa-terminal" aria-hidden="true"></i> terminal  
+<i class="fa fa-check" aria-hidden="true"></i> check  
+<i class="fa fa-download" aria-hidden="true"></i> download  
+<i class="fa fa-upload" aria-hidden="true"></i> upload  
+
 ## 注釈
 
 ここに注釈[^1]をつけます。
